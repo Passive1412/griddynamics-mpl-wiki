@@ -2,7 +2,7 @@
 
 // Configuration
 CFG = [
-  'agent_label': 'Master',
+  'agent_label': 'Linux',
   'docker.artifacts': 'target/petclinic.war',
   'selenium.maven_profile': 'selenium-tests',
   'selenium.target_url': 'http://target-host:8080/petclinic',
